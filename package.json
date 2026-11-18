@@ -1,0 +1,34 @@
+{
+  "name": "lunar-rover-3d-scroll",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SV-54 — 3D Lunar Rover Scroll Story — a website template from Talizen Templates.",
+  "license": "MIT",
+  "homepage": "https://templates.talizen.com/templates/lunar-rover-3d-scroll",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talizen/lunar-rover-3d-scroll.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/three": "^0.167.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0"
+  }
+}
